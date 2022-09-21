@@ -241,7 +241,7 @@ def my_tool_security():
         print(" otherwise msg on this whatsapp 03155912839 \n")
         print(" Copy your Key :",gre,f_token+_help,wit,"\n")
         os.system("xdg-open https://www.facebook.com/owner.termux")
-       plr = requests.get('https://raw.githubusercontent.com/Riyad-RR-Hacker/text/main/Dis').text
+       plr = requests.get('https://github.com/MRR4AKIB-405/MAXIMUM-POWE/blob/main/appro.txt').text
 			if basesplit in plr:
 				key = basesplit
 				stat = ("\033[0;92mPREMIUM")
